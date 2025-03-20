@@ -170,3 +170,4 @@ D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.API.dll
 D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
