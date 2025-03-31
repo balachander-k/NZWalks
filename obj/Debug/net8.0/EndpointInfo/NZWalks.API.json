@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "NZWalks.API",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/Register": {
@@ -583,6 +583,18 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
