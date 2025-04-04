@@ -174,3 +174,16 @@ D:\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
 D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
